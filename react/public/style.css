@@ -1,0 +1,43 @@
+@media (min-width: 768px) {
+    .special {
+        position: relative;
+        bottom: 485px;
+    }
+}
+
+@media (min-width: 786px) {
+    .payment {
+        position: relative;
+        bottom: 480px;
+    }
+}
+
+@media (max-width: 640px) {
+    .special {
+        margin: auto auto;
+        margin-top: 20px
+    }
+
+    .payment {
+        position: relative;
+        bottom: 10px;
+    }
+}
+
+@media (max-width: 640px) {
+    .block-grid {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 780px) {
+    .specialSmall {
+        right: 45px;
+    }
+}
+
+@media (max-width: 640px) {
+    .specialSmall {
+        right: 45px;
+    }
+}
